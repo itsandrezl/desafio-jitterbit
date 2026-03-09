@@ -55,3 +55,8 @@ DELETE /order/:id
 }
 ]
 }
+````
+## Autor
+
+André Felipe  
+LinkedIn: https://www.linkedin.com/in/itsandrezl/
